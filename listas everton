@@ -1,0 +1,42 @@
+# EXTM3U
+ 
+#EXTINF: -1 tvg-id = "8 milhas" tvg-logo = "https://topflix.tv/images/poster/170255/96405576.jpg" group-title = "FILMES LANÇAMENTOS", 8 milhas
+https://www.googleapis.com/drive/v3/files/1GYcq6i4LJIK6FnBtE4vHTc85W0tg24wa?alt=media&key=AIzaSyBLvueAw6B-itOGlsysJuzOpeio_OnbEOk
+ 
+#EXTINF: -1 tvg-id = "O DESAFIO" tvg-logo = "https://topflix.tv/images/poster/170255/96405576.jpg" group-title = "FILMES LANÇAMENTOS", O DESAFIO
+https://www19.uptostream.com/27t8bx08c22/720/0/video.mp4
+ 
+#EXTINF: -1 tvg-id = "A PROVA DE BALAS 2" tvg-logo = "https://image.tmdb.org/t/p/w300/wXCOELIgsRrHa3nMY69tN6XrEv6.jpg" group-title = "FILMES LANÇAMENTOS", A PROVA DE BALAS 2
+https://hls.azureedge.net/d/RCFServer5/ondemand/APRVDBLS2.mp4
+ 
+#EXTINF: -1 tvg-id = "ABDUÇÃO" tvg-logo = "https://image.tmdb.org/t/p/w300/oBlOPZnyOzIboyhjs51h2QGpWr8.jpg" group-title = "FILMES LANÇAMENTOS", ABDUÇÃO
+https://hls.azureedge.net/d/RCFServer5/ondemand/ABDCAO.mp4
+ 
+#EXTINF: -1 tvg-id = "O HOMEM INVISIVEL" tvg-logo = "https://image.tmdb.org/t/p/w300/jGftFA2Orf2AmVNpslsOqifANcA.jpg" group-title = "FILMES LANÇAMENTOS", O HOMEM INVISIVEL
+https://hls.azureedge.net/d/RCFServer5/ondemand/OHMEMINVSVL.mp4
+ 
+#EXTINF: -1 tvg-id = "7500" tvg-logo = "https://image.tmdb.org/t/p/w300/nrW048JoWofimI5AKXDTBzvxqRr.jpg" group-title = "FILMES LANÇAMENTOS", 7500
+https://hls.azureedge.net/d/RCFServer5/ondemand/7500.mp4
+ 
+#EXTINF: -1 tvg-id = "A VASTIDÃO DA NOITE" tvg-logo = "https://image.tmdb.org/t/p/w300/vcZb17z4szf7ovmsjTGc2qDmaoQ.jpg" group-title = "FILMES LANÇAMENTOS", A VASTIDÃO DA NOITE
+https://hls.azureedge.net/d/RCFServer5/ondemand/AVSTDAODNTE.mp4
+ 
+#EXTINF: -1 tvg-id = "ABERRAÇÕES" tvg-logo = "https://image.tmdb.org/t/p/w300/bdeW3VjDtXuVXQEQMO4n9fbx8Jf.jpg" group-title = "FILMES LANÇAMENTOS", ABERRAÇÕES
+https://hls.azureedge.net/d/RCFServer5/ondemand/ABRCOES.mp4
+ 
+#EXTINF: -1 tvg-id = "CORAÇÃO DE DRAGÃO VINGANÇA" tvg-logo = "https://media.fstatic.com/7NxyW0THfJ_oApRrAtnjWljx_YM=/210x312/smart/media/movies/covers/202020/02/55706886ef22cce1f7aaaaaaaaaaaaaaaa7 "group-title =" FILMES LANÇAMENTOS ", CORAÇÃO DE DRAGÃO VINGANÇA
+https://hls.azureedge.net/d/RCFServer5/ondemand/CRCDRGVNC.mp4
+ 
+#EXTINF: -1 tvg-id = "CRIME SEM SAIDA" tvg-logo = "https://woomagazine.com.br/wp-content/uploads/2019/10/5d3766053a7055a6cdba48df1.jpg" group-title = "FILMES LANÇAMENTOS ", CRIME SEM SAIDA
+https://868419155.tapecontent.net/radosgw/kWW23W3vbjIQB1/zo_-Tfx9DRuqQdbniB5gZLw4OMHijEFHxFdB-vMcfaYCC041x73RuhuUiixI8cdPbsGjU2TQ1PE7ryxuGLUHVIh-vtNnb1Sw_Vw8h7iY2r0LnicLBCYsIv2_7I_MRk172O7O73Su2a0DqaK1OY6sdgGGzfSvlA4dqgZKSes_Wv0XVLg9DP05lp66pDH9B8HDtL5q1DW1CI5PHSki-7xz118ufwELOfJOAk12wah3-esNcDKqrg4pKOhEk2xWUpXzd-zlIjowIcy6NGyYz-rKNpGuG3neh6OUUbObvdZG3T7agOh0VLiw0nAvGgpuo5uAB2xzaWlfHuEDf7IG/Crime.Sem.Sa%C3%ADda.2019.720p.BluRay.6CH.x264.DUBLADO -LAPUMiA.mp4
+ 
+#EXTINF: -1 tvg-id = "SEDUÇÃO PERIGOSA" tvg-logo = "https://image.tmdb.org/t/p/w300/dztS7aqdW1BMbyr4beisngVf7kE.jpg" group-title = "FILMES LANÇAMENTOS", SEDUÇÃO PERIGOSA
+https://hls.azureedge.net/d/RCFServer5/ondemand/SDCAOPRGSA.mp4
+ 
+#EXTINF: -1 tvg-id = "ASSASSINATO VIA BABA ELETRÔNICA" tvg-logo = "https://www.baixedetudo.org/imagem/Assassinato-via-Baba-Eletronica.jpg" group-title = "FILMES LANÇAMENTOS" , ASSASSINATO VIA BABA ELETRÔNICA
+https://hls.azureedge.net/d/RCFServer5/ondemand/ASASNTVIABABELTRNCA.mp4
+ 
+#EXTINF: -1 tvg-id = "O CHAMADO DA FLORESTA" tvg-logo = "https://image.tmdb.org/t/p/w300/1SIlV2p8355FAuKTGje9ZgtXujN.jpg" group-title = "FILMES LANÇAMENTOS", O CHAMADO DA FLORESTA
+https://hls.azureedge.net/d/RCFServer5/ondemand/OCHMDODFLRSTA.mp4
+ 
+#EXTINF: -1 tvg-id = "8 milhas" tvg-logo = "https://site.veracruz.edu.br/blogs/8ano2017/wp-content/uploads/sites/26/2017/08/8- mile-rua-das-ilusoes_cartaz_220x283-1-220x250.jpg "group-title =" FILMES LANÇAMENTOS ", 8 milhas
